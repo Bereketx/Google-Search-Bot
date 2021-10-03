@@ -27,7 +27,7 @@ Made by @FayasNoushad"""
 JOIN_BUTTON = [
     InlineKeyboardButton(
         text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        url='https://telegram.me/ethioapk1'
     )
 ]
 
@@ -88,7 +88,7 @@ def google(query):
     for info in informations:
         text = f"**Title:** `{info['title']}`"
         text += f"\n**Description:** `{info['description']}`"
-        text += f"\n\nMade by @FayasNoushad"
+        text += f"\n\nMade by @bereketx"
         results.append(
             {
                 "title": info['title'],
